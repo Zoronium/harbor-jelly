@@ -1,0 +1,1 @@
+{"name":"harbor-jelly","private":true,"type":"module","scripts":{"test":"node test/choreo.test.mjs && playwright test"},"devDependencies":{"@playwright/test":"^1.51.1"}}
